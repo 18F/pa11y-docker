@@ -1,0 +1,6 @@
+{
+  "name": "pa11y-docker",
+  "scripts": {
+    "start": "echo 'Starting node container'"
+  }
+}
